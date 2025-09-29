@@ -1,2 +1,0 @@
-# BIS
-bio inspired syatem
